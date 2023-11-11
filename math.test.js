@@ -1,6 +1,6 @@
 //📄 math.test.js
 
-const math =require('./main')
+const math =require('./math')
 const assert = require('assert')
 
 
